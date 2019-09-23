@@ -1,3 +1,0 @@
-# Who am I?
-___
-Allow me to start off this is the most simple of ways - my name is __Jason Michael__. I have been a developer for many years; employeed and un. 
